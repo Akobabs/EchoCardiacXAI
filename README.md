@@ -67,48 +67,12 @@ This repository hosts the planned implementation of a computer vision project fo
 
 ## 📅 Project Timeline
 
-|
- Phase             
-|
- Duration                  
-|
- Activities                                      
-|
-|
--------------------
-|
----------------------------
-|
-------------------------------------------------
-|
-|
- 🧪 Planning       
-|
- April–August 2025        
-|
- Dataset exploration, tool setup, literature review 
-|
-|
- 📝 Proposal       
-|
- Week 6 (Late Sep 2025)   
-|
- Submit official project proposal               
-|
-|
- 🔧 Development    
-|
- Weeks 7–12 (Oct–Nov 2025)
-|
- Preprocessing, model training, Grad-CAM integration 
-|
-|
- 📊 Final Report   
-|
- Week 14 (Late Nov 2025)  
-|
- Submit report with results and analysis        
-|
+| Phase | Duration | Activities |
+|-------|----------|------------|
+| 🧪 Planning | Apr–Aug 2025 | Dataset exploration, tool setup, literature review |
+| 📝 Proposal | Week 6 | Submit official proposal |
+| 🔧 Development | Weeks 7–12 | Preprocessing, training, Grad-CAM integration |
+| 📊 Final Report | Week 14 | Submit report with results & analysis |
 
 ---
 
